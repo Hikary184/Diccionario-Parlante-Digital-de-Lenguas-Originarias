@@ -1,0 +1,26 @@
+awá':
+  pronunciation:
+    label:
+    - '[awáʔ]'
+    - '[ʔawáʔ]'
+  audio: link de audio
+  PartOfSpeech: part.
+  sense:
+    es_translation: sí
+    en_translation: 'yes'
+    example: Awa, llsedla'be' di'llwrall
+    es_exampleTranslation: Sí, estoy enseñando zapoteco
+    en_exampleTranslation: Yes, I am teaching Zapotec.
+bà:
+  pronunciation:
+    label:
+    - '[bà̰]'
+    - s.
+  audio: link de audio
+  PartOfSpeech: sepulcro.
+  sense:
+    es_translation: tomb
+    en_translation: ló'
+    example: bà
+    es_exampleTranslation: adentro del sepulcro
+    en_exampleTranslation: inside the tomb. Ba gachen'ake bà ke bè'nnen gut

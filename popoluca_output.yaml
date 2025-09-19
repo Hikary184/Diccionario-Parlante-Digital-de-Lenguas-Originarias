@@ -1,0 +1,11 @@
+aañi:
+  audio: http://localhost:8000/audio/POPOLUCA/aañi.mp3
+  PartOfSpeech: st
+  sense:
+  - es_translation: Tortilla
+  - example: p aañi agi pijpa
+    soundFile: http://localhost:8000/audio/POPOLUCA/aañi.mp3
+    es_exampleTranslation: Esta tortilla está muy caliente
+  - example: p aañi jem yooya ikudyiñ
+    soundFile: http://localhost:8000/audio/POPOLUCA/aañi2.mp3
+    es_exampleTranslation: Remójale estas tortillas al puerco para que se las coma

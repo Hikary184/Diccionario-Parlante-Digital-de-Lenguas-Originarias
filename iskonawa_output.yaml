@@ -1,0 +1,6 @@
+PartOfSpeech: n
+audio: http://localhost:8000/audio/ISKONAWA/batan nochi.wav
+entry: batan nochi
+sense:
+  en_translation: sweet pepper of a large size.
+  es_translation: ají dulce de tamaño grande
